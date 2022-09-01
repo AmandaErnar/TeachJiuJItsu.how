@@ -1,3 +1,11 @@
+Remain serious when you're on the mat
+
+Set up breaks in between each block
+
+If the students' parents do not arrive on time when class is over, continue playing the game of the day
+
+If student misbehaves, say, "On this mat, you do not whine. This is jiu-jitsu. You are strong when you do jiu-jitsu."
+
 ## Bow in
 
 ## Drill
@@ -34,7 +42,7 @@ Sumo
 
 Back body lock
 
-Toe touch
+Mount ride
 
 ## Burn
 
@@ -45,5 +53,13 @@ Jump squat
 Jump over
 
 Wheel barrow
+
+## Game
+
+(Do 1 in 5 minutes)
+
+Toe touch
+
+Capture the flag
 
 ## Bow out
