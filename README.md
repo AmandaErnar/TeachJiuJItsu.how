@@ -6,7 +6,9 @@ If the students' parents do not arrive on time when class is over, continue play
 
 If student misbehaves, say, "On this mat, you do not whine. This is jiu-jitsu. You are strong when you do jiu-jitsu."
 
-## Bow in
+## Start
+
+Bow in
 
 ## Drill
 
@@ -19,6 +21,10 @@ Forward roll
 Reverse roll
 
 Fall
+
+Side fall
+
+Fall --> Combat stand
 
 ## Learn the move of the day
 
@@ -33,6 +39,8 @@ Mount escape
 Mount --> Arm bar
 
 Back control
+
+Armdrag --> Back take
 
 ## Spar 
 
@@ -62,4 +70,8 @@ Toe touch
 
 Capture the flag
 
-## Bow out
+## End
+
+Summarize today's values
+
+Bow out
