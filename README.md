@@ -1,6 +1,14 @@
+Be assertive
+
 Remain serious when you're on the mat
 
-Set up breaks in between each block
+Teach good habits and immediately shut down bad habits
+
+Give children 20% critical feedback and 80% words of encouragement
+
+Break the move of the day into small steps
+
+Manage your time wisely
 
 If the students' parents do not arrive on time when class is over, continue playing the game of the day
 
@@ -13,6 +21,10 @@ If student misbehaves, say, "On this mat, you do not whine. This is jiu-jitsu. Y
 (Do 4 in 10 minutes)
 
 Shrimp
+
+Double shrimp
+
+Shoulder, elbow, arm shrimp
 
 Forward roll
 
