@@ -18,7 +18,7 @@ If student misbehaves, say, "On this mat, you do not whine. This is jiu-jitsu. Y
 
 ## Drill
 
-(Do 4 in 10 minutes)
+(Do 3 in 15 minutes)
 
 Shrimp
 
@@ -31,6 +31,8 @@ Forward roll
 Reverse roll
 
 Fall
+
+Bear crawl
 
 ## Learn the move of the day
 
@@ -45,6 +47,12 @@ Mount escape
 Mount --> Arm bar
 
 Back control
+
+Open guard, untouchable distance --> Follow
+
+Open guard, barely touchable distance --> Cross top leg over, recover
+
+Open guard, touchable distance --> Shrimp, recover
 
 ## Spar 
 
