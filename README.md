@@ -36,8 +36,6 @@ Fall
 
 Bear Crawl
 
-=======
-
 Side fall
 
 Fall --> Combat stand
@@ -61,8 +59,6 @@ Open guard, untouchable distance --> Follow
 Open guard, barely touchable distance --> Cross top leg over, recover
 
 Open guard, touchable distance --> Shrimp, recover
-
-=======
 
 Armdrag --> Back take
 
