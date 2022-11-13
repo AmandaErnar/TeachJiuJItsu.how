@@ -40,6 +40,10 @@ Side fall
 
 Fall --> Combat stand
 
+Inversions
+
+Stand up via knees
+
 ## Learn the move of the day
 
 (Do 1 in 15 minutes)
@@ -61,6 +65,12 @@ Open guard, barely touchable distance --> Cross top leg over, recover
 Open guard, touchable distance --> Shrimp, recover
 
 Armdrag --> Back take
+
+Tripod Sweep
+
+De la Riva
+
+Passes
 
 ## Spar 
 
